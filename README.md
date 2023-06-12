@@ -1,5 +1,10 @@
 # reminders-web-component
 A Robot Arm Web Component build with Vue, TypeScript
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6c9514f7-1379-437f-bb5a-6cfd40f6a638/deploy-status)](https://app.netlify.com/sites/stately-hummingbird-ea25b6/deploys)
+
+[Live Demo ⚡](https://stately-hummingbird-ea25b6.netlify.app/)
+
 Setup
 ---
 - Clone the repo
